@@ -1,9 +1,7 @@
 .card {
   background-color: #fff;
   margin: 0;
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-bottom: 10px;
+  padding: 10px 10px 10px 10px;
 }
 
 .card__title {
