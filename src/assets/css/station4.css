@@ -1,3 +1,7 @@
+body {
+  background-color: #c4c4c4;
+}
+
 .card {
   background-color: #fff;
   margin: 0;
@@ -22,10 +26,6 @@
 
 header {
   background-color: #ffffff;
-}
-
-body {
-  background-color: #c4c4c4;
 }
 
 footer {
